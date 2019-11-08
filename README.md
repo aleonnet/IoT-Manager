@@ -13,16 +13,16 @@
 ## Install
 
 ```sh
-cd iot_manager && flutter install
+flutter install
 ```
 
 ## Usage
 
 ```sh
-cd iot_manager && flutter run
+flutter run
 ```
 
-## Try it out!
+## Try it out
 
 ### Android
 
